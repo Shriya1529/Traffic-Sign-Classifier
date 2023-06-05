@@ -1,0 +1,2 @@
+# Traffic-Sign-Classifier: German Traffic Sign Recognition - Deep Learning			
+Built and trained a model using PyTorch and TensorFlow to recognize traffic signs with 85% accuracy. Ensured ethical practices were maintained while developing and deploying this model by adhering to data privacy regulations and guidelines.	Demonstrated adaptability by keeping up-to-date with the latest advancements in machine learning technologies and algorithms.
